@@ -3,7 +3,8 @@ html,body{min-height:101%;height:100%;}
 body{background:#fff;font-family:arial,宋体;color:#2b2b2b;}
 body.main{background:#eeeeee url(images/bg.png?ssss) repeat-x 0 0;}
 .yice_wrapper{width:960px;min-height:101%;height:100%;margin:0 auto;position:relative;}
-.yice_head{height:50px;padding:0 10px 0 150px;background:url(images/logo.png) no-repeat 0 0;font-size:0;position:relative;}.yice_head a{display:inline-block;color:#fff;font-size:12px;height:40px;line-height:40px;padding:9px 25px 0;border-left:1px solid #56160d;}
+.yice_head{height:50px;padding:0 10px 0 150px;background:#610a01 url(images/logo.png) no-repeat 0 0;font-size:0;position:relative;}
+.yice_head a{display:inline-block;color:#fff;font-size:12px;height:40px;line-height:40px;padding:9px 25px 0;border-left:1px solid #56160d;}
 .yice_head a:hover{background:#610a01;text-decoration:none;}
 .yice_upload{text-align:center;width:300px;height:120px;position:absolute;left:50%;top:50%;margin:-120px 0 0 -150px;}.yice_upload h1{font-size:38px;font-family:"微软雅黑";color:#333;padding-bottom:30px;}
 .yiche_upload_click{width:300px;height:30px;border:1px solid #ccc;background:#7c0c01;border-radius:5px;-moz-border-radius:5px;-o-border-radius:5px;-webkit-border-radius:5px;position:relative;}.yiche_upload_click span{line-height:30px;color:#fff;letter-spacing:1px;}
